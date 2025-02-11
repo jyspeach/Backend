@@ -1,7 +1,7 @@
 {
   "smart_home_devices": [
     {
-      "ID": 1,
+      "id": 1,
       "name": "Philips Hue Living Room Smart Bulb",
       "ip_address": "192.168.1.1",
       "status": "on",
