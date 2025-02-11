@@ -1,9 +1,9 @@
 {
   "smart_home_devices": [
     {
-      "id": 1,
+      "ID": 1,
       "name": "Philips Hue Living Room Smart Bulb",
-      "type": "light",
+      "ip_address": "192.168.1.1",
       "status": "on",
       "power_usage": 20,
       "uptime": 0
@@ -11,6 +11,7 @@
     {
       "id": 2,
       "name": "August Main Door Lock",
+      "ip_address": "210.145.2.3",
       "status": "on",
       "battery_level": 100,
       "power_usage": 5,
@@ -19,6 +20,7 @@
     {
       "id": 3,
       "name": "Nest Kitchen Thermostat",
+      "ip_address": "212.236.2.1",
       "status": "off",
       "temperature": 72,
       "power_usage": 50,
@@ -27,6 +29,7 @@
     {
       "id": 4,
       "name": "Samsung Living Room TV",
+      "ip_address": "162.268.1.6",
       "status": "off",
       "volume": 25,
       "power_usage": 100,
@@ -35,6 +38,7 @@
     {
       "id": 5,
       "name": "TP-Link Office Smart Plug",
+      "ip_address": "102.134.1.1",
       "status": "on",
       "power_usage": 50,
       "uptime": 0
